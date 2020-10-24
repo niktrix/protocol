@@ -1,0 +1,6 @@
+Using network 'development'.
+
+Hydro Token address 0x4c0885a2261aa88Cc9e4a056140363C9f6D05D2B
+Proxy address 0x45Ac19e16bB260a6CA6FebffDc2520a3a8aE35f2
+HybridExchange address 0xFB56DBEB5d01D2Bc1412ed29c6D9892847c48E23
+Proxy add exchange into whitelist

@@ -2,6 +2,8 @@
   "scripts": {
     "test": "truffle test",
     "compile": "truffle compile",
+    "deploy": "truffle exec ./scripts/deploy.js",
+
     "coverage": "solidity-coverage"
   },
   "dependencies": {
@@ -9,6 +11,7 @@
     "ethereumjs-util": "^5.2.0",
     "solidity-coverage": "^0.5.11",
     "truffle": "^4.1.14",
+    "truffle-hdwallet-provider-klaytn": "^1.0.13-a",
     "truffle-privatekey-provider": "^0.1.0",
     "web3": "^1.0.0-beta.36"
   }
